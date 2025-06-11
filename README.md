@@ -13,7 +13,6 @@ A responsive and interactive to-do list web application built using **React.js**
 
 ## 📦 Features
 - ✅ Add new tasks
-- ✏️ Edit existing tasks
 - ❌ Delete tasks
 - ✔️ Mark tasks as completed
 - 💡 Real-time updates using `useState`
